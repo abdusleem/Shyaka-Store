@@ -1,3 +1,7 @@
+Draw.io SQL Server Management Studio SQL Server Python SSRS Power BI Lovable AI
+
+
+
 # 📊 Shyaka Marketing Dashboard - Power BI Project
 
 ![Dashboard Preview](D1-%20Overview.png)
